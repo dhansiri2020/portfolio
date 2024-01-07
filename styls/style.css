@@ -45,3 +45,12 @@ text-decoration: none;
 .header{
   background: #FFF8F3;
 }
+.bannar{
+  padding: 30px 30px 30px 150px;
+  display: flex;
+  align-items: center;
+}
+ 
+.bannar .profile-picture{
+  width: 400px;
+}
