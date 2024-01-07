@@ -6,6 +6,7 @@ nav{
   display: flex;
   justify-content: space-between;
 align-items: center;
+margin: 0 100px;
 }
 .web-title{
 color: #181818;
@@ -39,4 +40,8 @@ nav ul li{
 }
 nav ul li a{
 text-decoration: none;
+}
+/* Header style */
+.header{
+  background: #FFF8F3;
 }
